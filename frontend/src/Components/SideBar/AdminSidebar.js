@@ -23,6 +23,10 @@ const goto = [
   {
     path:'Details',
     name:'Your details'
+  },
+  {
+    path:'/',
+    name:'Logout'
   }
 ]
 
